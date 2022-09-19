@@ -4,7 +4,7 @@
 - The code for this repo provides an example of how
 
 - This is the actual code I used (with added comments) to recover assets from a compromised wallet
-- Most of this code was taken from the example provided by https://www.youtube.com/watch?v=1ve1YIpDs_I
+- Most of this code was taken from the example provided by https://github.com/scyclow/flashbot and https://www.youtube.com/watch?v=1ve1YIpDs_I
 
 ## Setup
 - `npm install`
